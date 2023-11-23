@@ -1,0 +1,63 @@
+body{
+    font-family: sans-serif;
+}
+#mainDiv{
+    border:1px solid red;
+    height:700px;
+    width:500px;
+    margin-left: 400px;
+}
+#exp{
+    border:1px;
+    text-align:center;
+    font-size: 30px;
+}
+#balance{
+    font-size: 25px;
+}
+
+
+#bal{
+    padding-left: 3px;
+}
+
+
+/*#hisbox{
+    border: 1px solid red;
+    height: 100px;
+    width: 50%;
+}*/
+.history{
+    border: 1px solid red;
+    height: 50px;
+    width: 25%;
+    display: inline-block;
+}
+#summary{
+    width: 440px;
+    border: 1px solid green;
+    padding: 30px;
+    height: 40px;
+
+}
+#expense{
+    margin-right: 70px;
+    float:right;
+    font-size: 15px;
+}
+#income{
+    float:left;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+#hist,#newtrans{
+    font-size: 20px;
+}
+#nameBox,#amountBox{
+    font-size: 15px;
+}
+#inputbox1,#inputbox2{
+    width: 99%;
+
+}
